@@ -1,8 +1,8 @@
 {
-  "name": "hull/PHPMemcacheSASL",
+  "name": "hull/php-memcache-sasl",
   "type": "library",
   "description": "PHP Memcache class with SASL support",
-  "homepage": "http://github.com/hull/PHPMemcacheSASL",
+  "homepage": "http://github.com/hull/php-memcache-sasl",
   "license": "MIT",
   "authors": [
     {
