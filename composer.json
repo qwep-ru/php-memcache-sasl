@@ -1,0 +1,13 @@
+{
+  "name": "hull/PHPMemcacheSASL",
+  "type": "library",
+  "description": "PHP Memcache class with SASL support",
+  "homepage": "http://github.com/hull/PHPMemcacheSASL",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ronny Wang",
+      "email": "ronnywang@gmail.com"
+    }
+  ]
+}
