@@ -1,5 +1,5 @@
 {
-  "name": "hull/php-memcache-sasl",
+  "name": "scroller123/php-memcache-sasl",
   "type": "library",
   "description": "PHP Memcache class with SASL support",
   "homepage": "http://github.com/hull/php-memcache-sasl",
@@ -9,5 +9,11 @@
       "name": "Ronny Wang",
       "email": "ronnywang@gmail.com"
     }
-  ]
+  ],
+  "autoload" : {
+    "psr-0" : {
+      "MemcacheSASL" : "lib"
+    }
+  },
+
 }
