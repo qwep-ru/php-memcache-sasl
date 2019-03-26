@@ -1,15 +1,9 @@
 {
-  "name": "scroller123/php-memcache-sasl",
+  "name": "qwep-ru/php-memcache-sasl",
   "type": "library",
-  "description": "PHP Memcache class with SASL support",
-  "homepage": "http://github.com/hull/php-memcache-sasl",
+  "description": "Fork of scroller123/php-memcache-sasl",
+  "homepage": "http://github.com/qwep-ru/php-memcache-sasl",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Ronny Wang",
-      "email": "ronnywang@gmail.com"
-    }
-  ],
   "autoload" : {
     "psr-0" : {
       "MemcacheSASL" : "lib"
